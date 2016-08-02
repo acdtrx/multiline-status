@@ -1,0 +1,21 @@
+{
+  "name": "multiline-progress",
+  "version": "0.1.0",
+  "description": "Display multiple operations progress for CLI tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "multi",
+    "line",
+    "progress",
+    "status"
+  ],
+  "author": "Alex NOVAC <acdtrx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "screen-renderer": "^0.1.1"
+  }
+}
