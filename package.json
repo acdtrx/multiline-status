@@ -1,5 +1,5 @@
 {
-  "name": "multiline-progress",
+  "name": "multiline-status",
   "version": "0.1.0",
   "description": "Display multiple operations progress for CLI tools",
   "main": "index.js",
